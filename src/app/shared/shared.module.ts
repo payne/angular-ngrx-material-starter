@@ -47,7 +47,8 @@ import { BigInputActionComponent } from './big-input/big-input-action.component'
     MatIconModule,
     MatTooltipModule,
     MatSnackBarModule,
-    MatSlideToggleModule, MatSliderModule,
+    MatSlideToggleModule,
+    MatSliderModule
   ],
   declarations: [BigInputComponent, BigInputActionComponent],
   exports: [
@@ -71,7 +72,8 @@ import { BigInputActionComponent } from './big-input/big-input-action.component'
     MatIconModule,
     MatTooltipModule,
     MatSnackBarModule,
-    MatSlideToggleModule,MatSliderModule,
+    MatSlideToggleModule,
+    MatSliderModule,
 
     BigInputComponent,
     BigInputActionComponent
